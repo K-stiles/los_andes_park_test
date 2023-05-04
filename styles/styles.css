@@ -7,5 +7,34 @@
 body{
     background-color: aliceblue;
     font-family: sans-serif;
-    
+    padding: 0 4rem;
+}
+
+h1{
+    text-align: center;
+}
+
+#coverImg{
+    padding: 1rem 1rem;
+}
+
+/* .navBar{
+    display:flex;
+} */
+
+p{
+    margin: 20px 0;
+}
+
+.row{
+    display: flex;
+}
+
+button{
+    height: 30px;
+    width: 100px;
+    border-radius: 0;
+    margin-bottom: 10px;
+    border: 1px grey;
+    background-color: greenyellow;
 }
