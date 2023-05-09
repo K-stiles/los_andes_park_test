@@ -12,7 +12,7 @@ body {
 }
 
 /* banner styles */
-/* .banner {
+.banner {
   width: 100%;
   margin-bottom: 2rem;
   padding: 10px;
@@ -45,7 +45,7 @@ body {
   color: teal;
   text-align: center;
   margin: 0.6rem 0;
-} */
+}
 
 .main__banner {
   width: 80%;
